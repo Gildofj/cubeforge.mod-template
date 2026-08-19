@@ -1,0 +1,31 @@
+# Build & output directories
+build/
+build_*/
+out/
+bin/
+obj/
+_deps/
+.vs/
+.vscode/
+
+# CMake artifacts
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# Compiled binaries
+*.dll
+*.exp
+*.lib
+*.pdb
+*.ilk
+*.obj
+*.exe
+
+# Visual Studio user files
+*.user
+*.suo
+*.sln.docstates
+*.opensdf
+*.sdf
